@@ -17,7 +17,7 @@ namespace Petlje
 			}
 
 			Console.WriteLine("------------------");
-
+			//Izmenu
 			broj = 0;
 			do
 			{
